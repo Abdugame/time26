@@ -1,0 +1,39 @@
+.wrap {
+	margin-right: 70px;
+}
+
+.games {
+	margin-left: 70px;
+}
+
+.continer {
+	margin-left: 70px;
+}
+
+.start {
+	margin-left: 70px;
+	
+}
+
+.music {
+	margin-left: 70px;
+}
+
+.strid {
+	margin-left: 70px;
+	color: blue;
+	font-size: 30pt;
+	text-shadow: 5px 2px 4px grey;
+}
+
+td.top {
+	vertical-align: top;
+}
+
+td.top {
+	vertical-align: middle;
+}
+
+td.top {
+	vertical-align: bottom;
+}
